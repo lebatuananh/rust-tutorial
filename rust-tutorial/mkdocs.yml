@@ -1,0 +1,19 @@
+site_name: Rust Tutorial
+nav:
+  - Home: 'index.md'
+  - Varriable: 'variable.md'
+theme:
+  name: material
+  language: vi
+  font:
+    code: Roboto Mono
+  palette:
+    primary: black
+    accent: deep orange
+  plugins:
+    - search:
+        lang: vi
+        prebuild_index: true
+extra:
+  generator: false
+copyright: Copyright &copy; 2022 Lê Bá Tuấn Anh
