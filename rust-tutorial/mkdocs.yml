@@ -1,7 +1,8 @@
 site_name: Rust Tutorial
 nav:
   - Home: 'index.md'
-  - Varriable: 'variable.md'
+  - Kiến thức cơ bản: 'basic.md'
+  - Quản lý bộ nhớ: 'memory.md'
 theme:
   name: material
   language: vi
